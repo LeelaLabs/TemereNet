@@ -1,5 +1,7 @@
-# RookNet
-Conjugal Ciphers for Conjugal Chess Coins
+# TemereNet
+- Fischer Random Chess (or Chess960): 
+- The placement of the pieces on the first rank is randomised, with the opponent's pieces mirroring it. 
+- Invented by Bobby Fischer (1996).
 
 ## Context
 - Lack of Awareness about the ancient chess games in the current global arena. 
