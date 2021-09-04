@@ -1,7 +1,10 @@
 # TemereNet
 
 ## Pain Points
-- 
+- Lack of awareness about ancient chess strategies 
+- Limited access to the most advanced games of chess
+- Lack of audit trail on the history of movements in a game
+- Limited analytics on chess coin movement in a game with a machine
 
 ## Passion Points
 - 
