@@ -1,4 +1,15 @@
 # TemereNet
+
+## Pain Points
+- 
+
+## Passion Points
+- 
+
+## Problem Statement
+- 
+
+## Concepts
 - Fischer Random Chess (or Chess960): 
 - The placement of the pieces on the first rank is randomised, with the opponent's pieces mirroring it. 
 - Invented by Bobby Fischer (1996).
